@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="PH_RWY2124" Priority="1" Center="-31.940278+115.966944">
+    <!--YPPH-->
+    <Runway Name="03/21">
+      <Threshold Name="03" Position="-31.958739+115.959683" />
+      <Threshold Name="21" Position="-31.928594+115.968464" ExtendedCentrelineTrack="13.95" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <Runway Name="06/24">
+      <Threshold Name="06" Position="-31.940989+115.959203" />
+      <Threshold Name="24" Position="-31.930908+115.978792" ExtendedCentrelineTrack="58.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy21 AMANA2-->
+      -315731.460+1155734.860/
+      NAVEY/
+      BAMIL/
+      HELNA/
+      AMANA
+    </Line>
+    <Line>
+      <!--Rwy21 AVNEX3-->
+      NAVEY/
+      SWANN/
+      ORCHY/
+      BINOX/
+      AVPES/
+      HARBY/
+      SAKOM/
+      VENUP/
+      AVNEX
+    </Line>
+    <Line>
+      <!--Rwy21 HECTO2-->
+      NAVEY/
+      DELRU/
+      BROOK/
+      VEMON/
+      BURGU/
+      HECTO
+    </Line>
+    <Line>
+      <!--Rwy21 KEELS5-->
+      ORCHY/
+      WAVES/
+      SAILS/
+      BRIGG/
+      KEELS
+    </Line>
+    <Line>
+      <!--Rwy21 MANDU3-->
+      -315731.460+1155734.860/
+      JANDO/
+      MANDU
+    </Line>
+    <Line>
+      <!--Rwy21 MEMUP2-->
+      BURGU/
+      MEMUP
+    </Line>
+    <Line>
+      <!--Rwy21 MUBID1-->
+      BURGU/
+      MUBID
+    </Line>
+    <Line>
+      <!--Rwy21 OTKUN1-->
+      -315731.460+1155734.860/
+      -315732.043+1155728.204/
+      -315740.872+1155721.030/
+      -315748.281+1155710.674/
+      -315753.549+1155657.994/
+      -315757.026+1155643.716/
+      -315759.460+1155628.676/
+      -315801.326+1155613.052/
+      -315802.889+1155556.692/
+      OTKUN/
+      RANGU/
+      BUVEL
+    </Line>
+    <Line>
+      <!--Rwy21 OTLED3-->
+      ORCHY/
+      ENSUR/
+      LIDGI/
+      ORATI/
+      OSADA/
+      POSAS/
+      IRNOD/
+      LEVKA/
+      OTLED
+    </Line>
+    <Line>
+      <!--Rwy21 PUMRY3-->
+      JANDO/
+      CANRI/
+      PUMRY
+    </Line>
+    <Line>
+      <!--Rwy21 RAVON3-->
+      -315731.460+1155734.860/
+      -315830.057+1155717.136/
+      SOKAL/
+      CHIDL/
+      RAVON
+    </Line>
+    <Line>
+      <!--Rwy21 SOLUS3-->
+      JANDO/
+      MOCUR/
+      SOLUS
+    </Line>
+    <Line>
+      <!--Rwy21 YNRV2-->
+      BURGU/
+      YNRV
+    </Line>
+    <Line>
+      <!--Rwy24 AMANA2-->
+      -315627.560+1155733.130/
+      -315630.332+1155728.202/
+      -315636.943+1155715.381/
+      -315643.860+1155701.854/
+      -315656.392+1155637.029/
+      -315704.106+1155621.211/
+      -315711.449+1155605.702/
+      -315718.858+1155549.616/
+      -315729.044+1155526.738/
+      -315737.228+1155508.687/
+      -315746.804+1155451.392/
+      -315758.554+1155436.580/
+      -315811.734+1155424.827/
+      -315826.478+1155415.418/
+      -315842.519+1155408.557/
+      -315859.769+1155404.452/
+      -315917.392+1155403.333/
+      -315935.093+1155405.209/
+      -315952.547+1155410.170/
+      -320009.067+1155418.082/
+      -320024.538+1155428.804/
+      -320038.784+1155442.314/
+      NAVEY
+    </Line>
+    <Line>
+      <!--Rwy24 AVNEX3-->
+      -315627.560+1155733.130/
+      SWANN
+    </Line>
+    <Line>
+      <!--Rwy24 HECTO2-->
+      -315627.560+1155733.130/
+      NAVEY
+    </Line>
+    <Line>
+      <!--Rwy24 KEELS5-->
+      
+    </Line>
+    <Line>
+      <!--Rwy24 MANDU3-->
+      SWANN/
+      MANDU
+    </Line>
+    <Line>
+      <!--Rwy24 MEMUP2-->
+      
+    </Line>
+    <Line>
+      <!--Rwy24 MUBID1-->
+      
+    </Line>
+    <Line>
+      <!--Rwy24 OTKUN1-->
+      -315627.560+1155733.130/
+      -315625.437+1155734.208/
+      -320001.577+1154944.030/
+      -320006.594+1154926.342/
+      -320009.467+1154907.841/
+      -320011.126+1154848.754/
+      -320012.245+1154816.984/
+      -320012.272+1154757.914/
+      -320012.015+1154738.900/
+      -320011.576+1154719.776/
+      OTKUN
+    </Line>
+    <Line>
+      <!--Rwy24 OTLED3-->
+      
+    </Line>
+    <Line>
+      <!--Rwy24 PUMRY3-->
+      SWANN/
+      JANDO
+    </Line>
+    <Line>
+      <!--Rwy24 RAVON3-->
+      -315627.560+1155733.130/
+      -315632.151+1155717.687/
+      -315637.379+1155707.676/
+      -315644.517+1155658.921/
+      -315653.566+1155652.272/
+      -315703.888+1155648.103/
+      -315715.154+1155646.565/
+      -315726.790+1155647.847/
+      -315738.436+1155652.026/
+      -315749.361+1155658.881/
+      -315759.492+1155708.448/
+      -315808.228+1155720.306/
+      -315815.284+1155734.119/
+      SOKAL
+    </Line>
+    <Line>
+      <!--Rwy24 SOLUS3-->
+      
+    </Line>
+    <Line>
+      <!--Rwy24 YNRV2-->
+      
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy21 BEVL5A-->
+      BEVLY/
+      BOOKA/
+      PONYS/
+      DELAK/
+      MUMOS/
+      ROLOB/
+      WOORA/
+      HAIGH
+    </Line>
+    <Line>
+      <!--Rwy21 CONI4A-->
+      CONNI/
+      OLGEK/
+      WOORA
+    </Line>
+    <Line>
+      <!--Rwy21 GREN5A-->
+      GRENE/
+      DORIS/
+      RONAN/
+      UNDOW/
+      BAHBA/
+      ROLOB
+    </Line>
+    <Line>
+      <!--Rwy21 JULI5A-->
+      JULIM/
+      YIREE/
+      WOORA
+    </Line>
+    <Line>
+      <!--Rwy21 SOLU2A-->
+      SOLUS/
+      MOCUR
+    </Line>
+    <Line>
+      <!--Rwy21 WAVE3A.BRIGG-->
+      BRIGG/
+      BITAP/
+      SAILS/
+      WAVES
+    </Line>
+    <Line>
+      <!--Rwy21 WAVE3A-->
+      WAVES/
+      BARFF/
+      WOOFY
+    </Line>
+    <Line>
+      <!--Rwy24 BEVL5A-->
+      ROLOB/
+      SPUDO/
+      KOORI
+    </Line>
+    <Line>
+      <!--Rwy24 CONI4A-->
+      CONNI/
+      NIRUL/
+      SPUDO
+    </Line>
+    <Line>
+      <!--Rwy24 GREN5A-->
+      
+    </Line>
+    <Line>
+      <!--Rwy24 JULI5A-->
+      JULIM/
+      ISRUP/
+      SPUDO
+    </Line>
+    <Line>
+      <!--Rwy24 SOLU2A-->
+      
+    </Line>
+    <Line>
+      <!--Rwy24 WAVE3A.BRIGG-->
+      
+    </Line>
+    <Line>
+      <!--Rwy24 WAVE3A-->
+      
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>HAIGH</Point>
+      <Point>MOCUR</Point>
+      <Point>WOOFY</Point>
+      <Point>KOORI</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>NAVEY</Point>
+      <Point>BAMIL</Point>
+      <Point>HELNA</Point>
+      <Point>AMANA</Point>
+      <Point>SWANN</Point>
+      <Point>ORCHY</Point>
+      <Point>BINOX</Point>
+      <Point>AVPES</Point>
+      <Point>HARBY</Point>
+      <Point>SAKOM</Point>
+      <Point>VENUP</Point>
+      <Point>AVNEX</Point>
+      <Point>DELRU</Point>
+      <Point>BROOK</Point>
+      <Point>VEMON</Point>
+      <Point>BURGU</Point>
+      <Point>HECTO</Point>
+      <Point>WAVES</Point>
+      <Point>SAILS</Point>
+      <Point>BRIGG</Point>
+      <Point>KEELS</Point>
+      <Point>JANDO</Point>
+      <Point>MANDU</Point>
+      <Point>MEMUP</Point>
+      <Point>MUBID</Point>
+      <Point>OTKUN</Point>
+      <Point>RANGU</Point>
+      <Point>BUVEL</Point>
+      <Point>ENSUR</Point>
+      <Point>LIDGI</Point>
+      <Point>ORATI</Point>
+      <Point>OSADA</Point>
+      <Point>POSAS</Point>
+      <Point>IRNOD</Point>
+      <Point>LEVKA</Point>
+      <Point>OTLED</Point>
+      <Point>CANRI</Point>
+      <Point>PUMRY</Point>
+      <Point>SOKAL</Point>
+      <Point>CHIDL</Point>
+      <Point>RAVON</Point>
+      <Point>SOLUS</Point>
+      <Point>YNRV</Point>
+      <Point>BEVLY</Point>
+      <Point>BOOKA</Point>
+      <Point>PONYS</Point>
+      <Point>DELAK</Point>
+      <Point>MUMOS</Point>
+      <Point>ROLOB</Point>
+      <Point>WOORA</Point>
+      <Point>CONNI</Point>
+      <Point>OLGEK</Point>
+      <Point>GRENE</Point>
+      <Point>DORIS</Point>
+      <Point>RONAN</Point>
+      <Point>UNDOW</Point>
+      <Point>BAHBA</Point>
+      <Point>JULIM</Point>
+      <Point>YIREE</Point>
+      <Point>BITAP</Point>
+      <Point>BARFF</Point>
+      <Point>SPUDO</Point>
+      <Point>NIRUL</Point>
+      <Point>ISRUP</Point>
+    </Symbol>
+    <!--(PH) RWY2124 Airspace-->
+    <Line Name="(PH) RWY2124" Width="1.7" Pattern="Dotted">
+      -320432.000+1163854.000/-315246.000+1161554.000/-315642.000+1155734.000/-315641.000+1155509.000/-315611.461+1155459.259/-315540.757+1155442.365/-315513.009+1155419.450/-315449.057+1155351.209/-315429.630+1155318.502/-315415.317+1155242.320/-315406.552+1155203.763/-315403.600+1155124.000/-315406.552+1155044.237/-315415.317+1155005.680/-315429.630+1154929.498/-315449.057+1154856.791/-315513.009+1154828.550/-315540.757+1154805.635/-315611.461+1154748.741/-315644.187+1154738.384/-315656.000+1154736.000/-315734.000+1151516.000
+    </Line>
+    <Line Name="(PH) RWY2124_1" Width="1.7" Pattern="Dotted">
+      -312106.000+1160422.000/-315526.000+1155431.000
+    </Line>
+    <Line Name="(PH) RWY2124_2" Width="1.7" Pattern="Dotted">
+      -313817.000+1163354.000/-315420.000+1161857.000
+    </Line>
+    <Line Name="(PH) RWY2124_3" Width="1.7" Pattern="Dotted">
+      -315335.000+1161208.000/-313400.000+1163024.000
+    </Line>
+    <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
+      <!--(PH) RWY2124 Labels-->
+      <Point Name="APP">-31.521111+116.130000</Point>
+      <Point Name="APP 110-">-31.751667+116.532222</Point>
+      <Point Name="APP 60-/DEP 70+">-31.644444+115.644167</Point>
+      <Point Name="APP 70-">-31.660000+116.468333</Point>
+      <Point Name="DEP">-32.078333+116.463333</Point>
+      <Point Name="DEP">-32.161111+115.477500</Point>
+      <Point Name="DEP 120+">-31.801389+116.481111</Point>
+      <Point Name="DEP 80+">-31.712222+116.421667</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="PH_RWY2124_NAMES" Priority="2" Center="-31.940278+115.966944">
+    <Label>
+      <Point>NAVEY</Point>
+      <Point>BAMIL</Point>
+      <Point>HELNA</Point>
+      <Point>AMANA</Point>
+      <Point>SWANN</Point>
+      <Point>ORCHY</Point>
+      <Point>BINOX</Point>
+      <Point>AVPES</Point>
+      <Point>HARBY</Point>
+      <Point>SAKOM</Point>
+      <Point>VENUP</Point>
+      <Point>AVNEX</Point>
+      <Point>DELRU</Point>
+      <Point>BROOK</Point>
+      <Point>VEMON</Point>
+      <Point>BURGU</Point>
+      <Point>HECTO</Point>
+      <Point>WAVES</Point>
+      <Point>SAILS</Point>
+      <Point>BRIGG</Point>
+      <Point>KEELS</Point>
+      <Point>JANDO</Point>
+      <Point>MANDU</Point>
+      <Point>MEMUP</Point>
+      <Point>MUBID</Point>
+      <Point>OTKUN</Point>
+      <Point>RANGU</Point>
+      <Point>BUVEL</Point>
+      <Point>ENSUR</Point>
+      <Point>LIDGI</Point>
+      <Point>ORATI</Point>
+      <Point>OSADA</Point>
+      <Point>POSAS</Point>
+      <Point>IRNOD</Point>
+      <Point>LEVKA</Point>
+      <Point>OTLED</Point>
+      <Point>CANRI</Point>
+      <Point>PUMRY</Point>
+      <Point>SOKAL</Point>
+      <Point>CHIDL</Point>
+      <Point>RAVON</Point>
+      <Point>MOCUR</Point>
+      <Point>SOLUS</Point>
+      <Point>YNRV</Point>
+      <Point>BEVLY</Point>
+      <Point>BOOKA</Point>
+      <Point>PONYS</Point>
+      <Point>DELAK</Point>
+      <Point>MUMOS</Point>
+      <Point>ROLOB</Point>
+      <Point>WOORA</Point>
+      <Point>HAIGH</Point>
+      <Point>CONNI</Point>
+      <Point>OLGEK</Point>
+      <Point>GRENE</Point>
+      <Point>DORIS</Point>
+      <Point>RONAN</Point>
+      <Point>UNDOW</Point>
+      <Point>BAHBA</Point>
+      <Point>JULIM</Point>
+      <Point>YIREE</Point>
+      <Point>BITAP</Point>
+      <Point>BARFF</Point>
+      <Point>WOOFY</Point>
+      <Point>SPUDO</Point>
+      <Point>KOORI</Point>
+      <Point>NIRUL</Point>
+      <Point>ISRUP</Point>
+      <Point>ONGAR</Point>
+      <Point>DALWU</Point>
+      <Point>AVPAL</Point>
+      <Point>HINDS</Point>
+      <Point>CALIG</Point>
+      <Point>ESMIN</Point>
+      <Point>HAMTN</Point>
+      <Point>MERIB</Point>
+      <Point>BLN NDB</Point>
+      <Point>JOSBU</Point>
+      <Point>ABA NDB</Point>
+      <Point>ESDEG</Point>
+      <Point>LAKIR</Point>
+      <Point>MANIG</Point>
+      <Point>LAKMO</Point>
+      <Point>NINEK</Point>
+      <Point>DUTAK</Point>
+      <Point>LAKAV</Point>
+      <Point>BUNGL</Point>
+      <Point>YAHMO</Point>
+      <Point>KELLA</Point>
+    </Label>
+  </Map>
+</Maps>

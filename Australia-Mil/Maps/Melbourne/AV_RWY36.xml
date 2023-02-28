@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AV_RWY36" Priority="1" Center="-38.039444+144.469444">
+    <!--YMAV-->
+    <Runway Name="18/36">
+      <Threshold Name="18" Position="-38.027222+144.469431" />
+      <Threshold Name="36" Position="-38.054439+144.464844" ExtendedCentrelineTrack="187.59" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy36 JUSTY2-->
+      -380138.000+1442809.950/
+      -380102.478+1442816.258/
+      JUSTY/
+      ML VOR
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy36 JAYBI5.APPLE-->
+      APPLE/
+      SOAPY/
+      JAYBI
+    </Line>
+    <Line>
+      <!--Rwy36 JAYBI5.CANTY-->
+      CANTY/
+      SOAPY
+    </Line>
+    <Line>
+      <!--Rwy36 JAYBI5.ML-->
+      ML VOR/
+      JAYBI
+    </Line>
+    <Line>
+      <!--Rwy36 JAYBI5-->
+      JAYBI/
+      BEKKA/
+      TEMPL
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>TEMPL</Point>
+    </Symbol>
+    <Symbol Type="Circle">
+      <Point>ML VOR</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>JUSTY</Point>
+      <Point>APPLE</Point>
+      <Point>SOAPY</Point>
+      <Point>JAYBI</Point>
+      <Point>CANTY</Point>
+      <Point>BEKKA</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="AV_RWY36_NAMES" Priority="2" Center="-38.039444+144.469444">
+    <Label>
+      <Point>JUSTY</Point>
+      <Point>ML VOR</Point>
+      <Point>APPLE</Point>
+      <Point>SOAPY</Point>
+      <Point>JAYBI</Point>
+      <Point>CANTY</Point>
+      <Point>BEKKA</Point>
+      <Point>TEMPL</Point>
+      <Point>NONIX</Point>
+      <Point>KACEY</Point>
+      <Point>NATYA</Point>
+      <Point>SALRI</Point>
+      <Point>ARBEY</Point>
+      <Point>KEPPA</Point>
+      <Point>AKNUM</Point>
+      <Point>SUNTI</Point>
+      <Point>AVNAS</Point>
+      <Point>IRSOM</Point>
+      <Point>NEVIS</Point>
+      <Point>BORTO</Point>
+      <Point>DUKES</Point>
+      <Point>BADGR</Point>
+      <Point>ANGEX</Point>
+      <Point>TANTA</Point>
+      <Point>RUMIE</Point>
+      <Point>NABBA</Point>
+      <Point>BULLA</Point>
+      <Point>LUVAS</Point>
+      <Point>LIZZI</Point>
+      <Point>ESDIG</Point>
+      <Point>NOGIP</Point>
+      <Point>DUBUS</Point>
+      <Point>WAZZA</Point>
+      <Point>TEMIS</Point>
+      <Point>BOYSE</Point>
+      <Point>OMKON</Point>
+      <Point>UBGUT</Point>
+      <Point>LANUN</Point>
+      <Point>WENDY</Point>
+      <Point>DOTPA</Point>
+      <Point>DOVUT</Point>
+      <Point>CHITT</Point>
+      <Point>MIA VOR</Point>
+      <Point>PUBAP</Point>
+      <Point>MENOG</Point>
+      <Point>TAITE</Point>
+      <Point>TUVRA</Point>
+      <Point>KII NDB</Point>
+      <Point>IBOBO</Point>
+    </Label>
+  </Map>
+</Maps>

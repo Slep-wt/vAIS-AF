@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="CS_TCU" Priority="1" Center="-16.885833+145.755278">
+    <!--YBCS-->
+    <Runway Name="15/33">
+      <Threshold Name="15" Position="-16.865817+145.743569" />
+      <Threshold Name="33" Position="-16.891969+145.755392" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--A216-->
+      LOCKA/
+      MEMIG
+    </Line>
+    <Line>
+      <!--B473-->
+      MEMOS/
+      LAKED
+    </Line>
+    <Line>
+      <!--G342-->
+      NONIR/
+      DOTOD
+    </Line>
+    <Line>
+      <!--J61-->
+      GULOP/
+      ANDEE/
+      KONDA
+    </Line>
+    <Line>
+      <!--J64-->
+      ONARA/
+      BULOK/
+      MUSEY
+    </Line>
+    <Line>
+      <!--J151-->
+      CARBA/
+      KOOKA
+    </Line>
+    <Line>
+      <!--Q67-->
+      SWALO/
+      BARIA
+    </Line>
+    <Line>
+      <!--R204-->
+      KIMMI/
+      DREWS
+    </Line>
+    <Line>
+      <!--R210-->
+      ZANEY/
+      PUPEB
+    </Line>
+    <Line>
+      <!--V153-->
+      IFL NDB/
+      SPARO/
+      IBUXI/
+      BINUN/
+      TL VOR/
+      WALTA/
+      ALBUX
+    </Line>
+    <Line>
+      <!--V264-->
+      PAWSO/
+      SPARO
+    </Line>
+    <Line>
+      <!--V308-->
+      ALISN/
+      POROB/
+      TL VOR/
+      ADLAG/
+      PEWEE/
+      BARIA
+    </Line>
+    <Line>
+      <!--W281-->
+      VEVAV/
+      ELNOT/
+      DAMIL
+    </Line>
+    <Line>
+      <!--W309-->
+      TAMED/
+      COE NDB
+    </Line>
+    <Line>
+      <!--W567-->
+      BENTA/
+      GUPDA
+    </Line>
+    <Line>
+      <!--Y177-->
+      BODAP/
+      SWIFT/
+      WALTA
+    </Line>
+    <Line>
+      <!--Z11-->
+      NORIS/
+      RUMGI
+    </Line>
+  </Map>
+  <Map Type="System2" Name="CS_VFR" Priority="1" Center="-16.885833+145.755278">
+    <Symbol Type="HollowSquare">
+      <Point>ADI</Point>
+      <Point>ALBA</Point>
+      <Point>ATN</Point>
+      <Point>BADA</Point>
+      <Point>BRGE</Point>
+      <Point>BESI</Point>
+      <Point>BRIN</Point>
+      <Point>BUCP</Point>
+      <Point>CBLT</Point>
+      <Point>CGF</Point>
+      <Point>CPL</Point>
+      <Point>DAIN</Point>
+      <Point>DOU</Point>
+      <Point>EARH</Point>
+      <Point>EARV</Point>
+      <Point>EDT</Point>
+      <Point>FCP</Point>
+      <Point>FID</Point>
+      <Point>FRWV</Point>
+      <Point>GNR</Point>
+      <Point>GOV</Point>
+      <Point>GNIS</Point>
+      <Point>GRNH</Point>
+      <Point>HVTG</Point>
+      <Point>KOPP</Point>
+      <Point>KRN</Point>
+      <Point>LMGE</Point>
+      <Point>LWI</Point>
+      <Point>MACB</Point>
+      <Point>MBA</Point>
+      <Point>MARQ</Point>
+      <Point>MMA</Point>
+      <Point>MMY</Point>
+      <Point>PCVE</Point>
+      <Point>PFRM</Point>
+      <Point>PTD</Point>
+      <Point>REDL</Point>
+      <Point>SADD</Point>
+      <Point>SMIF</Point>
+      <Point>SDG</Point>
+      <Point>SCRK</Point>
+      <Point>SUTR</Point>
+      <Point>SWLD</Point>
+      <Point>THSM</Point>
+      <Point>TBRT</Point>
+      <Point>TRIN</Point>
+      <Point>WAT</Point>
+      <Point>YBH</Point>
+      <Point>YKS</Point>
+    </Symbol>
+    <Label HasLeader="True">
+      <Point>ADI</Point>
+      <Point>ALBA</Point>
+      <Point>ATN</Point>
+      <Point>BADA</Point>
+      <Point>BRGE</Point>
+      <Point>BESI</Point>
+      <Point>BRIN</Point>
+      <Point>BUCP</Point>
+      <Point>CBLT</Point>
+      <Point>CGF</Point>
+      <Point>CPL</Point>
+      <Point>DAIN</Point>
+      <Point>DOU</Point>
+      <Point>EARH</Point>
+      <Point>EARV</Point>
+      <Point>EDT</Point>
+      <Point>FCP</Point>
+      <Point>FID</Point>
+      <Point>FRWV</Point>
+      <Point>GNR</Point>
+      <Point>GOV</Point>
+      <Point>GNIS</Point>
+      <Point>GRNH</Point>
+      <Point>HVTG</Point>
+      <Point>KOPP</Point>
+      <Point>KRN</Point>
+      <Point>LMGE</Point>
+      <Point>LWI</Point>
+      <Point>MACB</Point>
+      <Point>MBA</Point>
+      <Point>MARQ</Point>
+      <Point>MMA</Point>
+      <Point>MMY</Point>
+      <Point>PCVE</Point>
+      <Point>PFRM</Point>
+      <Point>PTD</Point>
+      <Point>REDL</Point>
+      <Point>SADD</Point>
+      <Point>SMIF</Point>
+      <Point>SDG</Point>
+      <Point>SCRK</Point>
+      <Point>SUTR</Point>
+      <Point>SWLD</Point>
+      <Point>THSM</Point>
+      <Point>TBRT</Point>
+      <Point>TRIN</Point>
+      <Point>WAT</Point>
+      <Point>YBH</Point>
+      <Point>YKS</Point>
+    </Label>
+    <Label HasLeader="True" LabelOrientation="NW">
+      <Point Name="EAST_ROUTE">-170251.217+1454822.086</Point>
+      <Point Name="WEST_ROUTE">-163931.682+1453433.218</Point>
+    </Label>
+    <!--EAST_ROUTE-->
+    <Line Pattern="Dotted">
+      -170251.217+1454822.086/TBRT/-165506.657+1454729.012
+    </Line>
+    <!--WEST_ROUTE-->
+    <Line Pattern="Dotted">
+      -163931.682+1453433.218/-164043.515+1453457.277/-164116.268+1453534.285/-164201.150+1453742.151/-164348.387+1453934.577/-164416.548+1453956.638/-164514.984+1453955.594/-164619.282+1454036.803/-164812.658+1454139.578/-165015.940+1454147.172/-165141.604+1454147.756/-165630.158+1454434.912/-165713.864+1454453.098/-165843.557+1454422.822/-165959.758+1454418.009/-170143.672+1454423.373/-170418.829+1454534.101
+    </Line>
+  </Map>
+  <Map Type="System2" Name="CS_VFR_FULL_NAME" Priority="1" Center="-16.885833+145.755278">
+    <Label HasLeader="True" LabelOrientation="SW">
+      <Point Name="ADMIRALTY ISLAND">ADI</Point>
+      <Point Name="ALOOMBA">ALBA</Point>
+      <Point Name="ATHERTON">ATN</Point>
+      <Point Name="BABINDA">BADA</Point>
+      <Point Name="BARRON GORGE">BRGE</Point>
+      <Point Name="BESSIE POINT">BESI</Point>
+      <Point Name="BRINSMEAD">BRIN</Point>
+      <Point Name="BUCHAN PT">BUCP</Point>
+      <Point Name="CABLEWAY TERMINAL">CBLT</Point>
+      <Point Name="CAPE GRAFTON">CGF</Point>
+      <Point Name="COPPERLODE DAM">CPL</Point>
+      <Point Name="DAINTREE">DAIN</Point>
+      <Point Name="DOUBLE ISLAND">DOU</Point>
+      <Point Name="EARL HILL">EARH</Point>
+      <Point Name="EARLVILLE">EARV</Point>
+      <Point Name="EDMONTON">EDT</Point>
+      <Point Name="FALSE CAPE">FCP</Point>
+      <Point Name="FITZROY ISLAND">FID</Point>
+      <Point Name="FRESHWATER VALLEY">FRWV</Point>
+      <Point Name="GIBSON REEF">GNR</Point>
+      <Point Name="GORDONVALE">GOV</Point>
+      <Point Name="GREEN ISLAND (CAIRNS)">GNIS</Point>
+      <Point Name="GREENHILL">GRNH</Point>
+      <Point Name="HIGH VOLTAGE">HVTG</Point>
+      <Point Name="KOPPEN PARK">KOPP</Point>
+      <Point Name="KURANDA">KRN</Point>
+      <Point Name="LITTLE MULGRAVE">LMGE</Point>
+      <Point Name="LOW ISLETS">LWI</Point>
+      <Point Name="MACHANS BEACH">MACB</Point>
+      <Point Name="MAREEBA">MBA</Point>
+      <Point Name="MARINO'S QUARRY">MARQ</Point>
+      <Point Name="MOSSMAN">MMA</Point>
+      <Point Name="MOUNT MOLLOY">MMY</Point>
+      <Point Name="PALM COVE">PCVE</Point>
+      <Point Name="PALM FARM">PFRM</Point>
+      <Point Name="PORT DOUGLAS">PTD</Point>
+      <Point Name="REDLYNCH">REDL</Point>
+      <Point Name="SADDLE MT">SADD</Point>
+      <Point Name="SMITHFIELD">SMIF</Point>
+      <Point Name="SOUTHEDGE">SDG</Point>
+      <Point Name="STONEY CREEK">SCRK</Point>
+      <Point Name="SUGAR TERMINAL">SUTR</Point>
+      <Point Name="SUGARWORLD">SWLD</Point>
+      <Point Name="THOMPSON 1">THSM</Point>
+      <Point Name="TIMBERTOP">TBRT</Point>
+      <Point Name="TRINITY BEACH">TRIN</Point>
+      <Point Name="WANGETTI">WAT</Point>
+      <Point Name="YARRABAH">YBH</Point>
+      <Point Name="YORKEYS KNOB">YKS</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="YBCS_ALLRWYS" Priority="2" Center="-16.885833+145.755278">
+    <!--YBCS-->
+    <Runway Name="15/33">
+      <Threshold Name="15" Position="-16.865817+145.743569" ExtendedCentrelineTrack="336.48" ExtendedCentrelineLength="18" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="33" Position="-16.891969+145.755392" ExtendedCentrelineTrack="156.48" ExtendedCentrelineLength="25" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+  </Map>
+</Maps>

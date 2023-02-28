@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AS_RWY30" Priority="1" Center="-23.808333+133.900833">
+    <!--YBAS-->
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-23.801031+133.893361" />
+      <Threshold Name="30" Position="-23.812119+133.914028" ExtendedCentrelineTrack="120.25" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy30 DESET4-->
+      -234803.710+1335336.100/
+      -234644.416+1335114.512/
+      -234227.012+1335014.320/
+      -234331.123+1335253.676/
+      AS VOR/
+      DESET
+    </Line>
+    <Line>
+      <!--Rwy30 DIGLA3-->
+      -234803.710+1335336.100/
+      OCTAV/
+      -234648.233+1335129.822/
+      -234607.000+1335055.766/
+      -234519.100+1335034.537/
+      -234427.806+1335027.579/
+      -234352.393+1335031.505/
+      AS456/
+      -234207.718+1335055.150/
+      -234050.068+1335049.632/
+      AS466/
+      DIGLA
+    </Line>
+    <Line>
+      <!--Rwy30 ELLOW3-->
+      AS VOR/
+      ELLOW
+    </Line>
+    <Line>
+      <!--Rwy30 GAFER3-->
+      AS456/
+      -234208.602+1335118.997/
+      -234105.200+1335220.133/
+      -234018.438+1335337.091/
+      -233951.499+1335504.630/
+      -233946.213+1335636.795/
+      -233951.663+1335720.331/
+      NAMIT/
+      -234036.781+1340134.356/
+      -234024.554+1340504.293/
+      -233938.964+1340744.047/
+      AS476/
+      GAFER
+    </Line>
+    <Line>
+      <!--Rwy30 HONGI3-->
+      -234644.416+1335114.512/
+      -234527.012+1335014.320/
+      HONGI
+    </Line>
+    <Line>
+      <!--Rwy30 IDANU3-->
+      AS VOR/
+      IDANU
+    </Line>
+    <Line>
+      <!--Rwy30 KALUG3-->
+      AS VOR/
+      KALUG
+    </Line>
+    <Line>
+      <!--Rwy30 LEESA5-->
+      -234803.710+1335336.100/
+      RUGMU/
+      IGDEB/
+      LEESA
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5-->
+      
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5.DIGLA-->
+      OCTAV/
+      -234648.233+1335129.822/
+      -234607.000+1335055.766/
+      -234519.100+1335034.537/
+      -234427.806+1335027.579/
+      -234352.393+1335031.505/
+      AS456/
+      -234207.718+1335055.150/
+      -234050.068+1335049.632/
+      AS466/
+      DIGLA
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5.ELLOW-->
+      OCTAV/
+      -234703.332+1335109.083/
+      -234718.988+1335003.391/
+      -234802.597+1334915.047/
+      -234832.910+1334901.380/
+      AS404/
+      AS406/
+      -235018.520+1334902.446/
+      -235106.780+1334922.683/
+      -235148.604+1334955.893/
+      -235221.138+1335039.814/
+      -235240.439+1335125.877/
+      DINGO/
+      -235334.254+1335424.714/
+      -235455.072+1335639.329/
+      -235640.598+1335822.737/
+      AS424/
+      ELLOW
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5.GAFER-->
+      AS456/
+      -234208.602+1335118.997/
+      -234105.200+1335220.133/
+      -234018.438+1335337.091/
+      -233951.499+1335504.630/
+      -233946.213+1335636.795/
+      -233951.663+1335720.331/
+      NAMIT/
+      -234036.781+1340134.356/
+      -234024.554+1340504.293/
+      -233938.964+1340744.047/
+      AS476/
+      GAFER
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5.KALUG-->
+      DINGO/
+      AS416/
+      -235454.537+1340151.991/
+      -235553.414+1340337.141/
+      AS428/
+      KALUG
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5.PULOL-->
+      NAMIT/
+      JIRRA/
+      AS488/
+      AS492/
+      AS496/
+      AS552/
+      PULOL
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5.SADEL-->
+      DINGO/
+      -235313.785+1335316.463/
+      -235358.513+1335430.911/
+      -235459.328+1335530.175/
+      -235539.729+1335555.354/
+      AS412/
+      SADEL
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5.SCOTI-->
+      AS456/
+      -234036.533+1335115.414/
+      -233847.138+1335112.923/
+      AS462/
+      SCOTI
+    </Line>
+    <Line>
+      <!--Rwy30 OCTAV5.YOTHU-->
+      AS404/
+      -234934.202+1334851.820/
+      -235005.687+1334836.511/
+      -235032.474+1334812.813/
+      -235048.296+1334750.425/
+      AS472/
+      VIMET/
+      YOTHU
+    </Line>
+    <Line>
+      <!--Rwy30 PULOL3-->
+      NAMIT/
+      JIRRA/
+      AS488/
+      AS492/
+      AS496/
+      AS552/
+      PULOL
+    </Line>
+    <Line>
+      <!--Rwy30 PUMAK1-->
+      RUGMU/
+      OLREB/
+      PUMAK
+    </Line>
+    <Line>
+      <!--Rwy30 SADEL3-->
+      AS VOR/
+      SADEL
+    </Line>
+    <Line>
+      <!--Rwy30 SARAH3-->
+      AS VOR/
+      SARAH
+    </Line>
+    <Line>
+      <!--Rwy30 SCOTI3-->
+      AS456/
+      -234036.533+1335115.414/
+      -233847.138+1335112.923/
+      AS462/
+      SCOTI
+    </Line>
+    <Line>
+      <!--Rwy30 STEEL3-->
+      -234644.416+1335114.512/
+      -235200.594+1340530.306/
+      STEEL
+    </Line>
+    <Line>
+      <!--Rwy30 TNK3-->
+      -234227.012+1335014.320/
+      -234049.042+1335251.072/
+      TNK VOR
+    </Line>
+    <Line>
+      <!--Rwy30 TUMSO1-->
+      OLREB/
+      TUMSO
+    </Line>
+    <!--STARs-->
+    <Symbol Type="SolidStar">
+      <Point>RUGMU</Point>
+    </Symbol>
+    <Symbol Type="Circle">
+      <Point>AS VOR</Point>
+      <Point>TNK VOR</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>DESET</Point>
+      <Point>OCTAV</Point>
+      <Point>AS456</Point>
+      <Point>AS466</Point>
+      <Point>DIGLA</Point>
+      <Point>ELLOW</Point>
+      <Point>NAMIT</Point>
+      <Point>AS476</Point>
+      <Point>GAFER</Point>
+      <Point>HONGI</Point>
+      <Point>IDANU</Point>
+      <Point>KALUG</Point>
+      <Point>IGDEB</Point>
+      <Point>LEESA</Point>
+      <Point>AS404</Point>
+      <Point>AS406</Point>
+      <Point>DINGO</Point>
+      <Point>AS424</Point>
+      <Point>AS416</Point>
+      <Point>AS428</Point>
+      <Point>JIRRA</Point>
+      <Point>AS488</Point>
+      <Point>AS492</Point>
+      <Point>AS496</Point>
+      <Point>AS552</Point>
+      <Point>PULOL</Point>
+      <Point>AS412</Point>
+      <Point>SADEL</Point>
+      <Point>AS462</Point>
+      <Point>SCOTI</Point>
+      <Point>AS472</Point>
+      <Point>VIMET</Point>
+      <Point>YOTHU</Point>
+      <Point>OLREB</Point>
+      <Point>PUMAK</Point>
+      <Point>SARAH</Point>
+      <Point>STEEL</Point>
+      <Point>TUMSO</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="AS_RWY30_NAMES" Priority="2" Center="-23.808333+133.900833">
+    <Label>
+      <Point>AS VOR</Point>
+      <Point>DESET</Point>
+      <Point>OCTAV</Point>
+      <Point>AS456</Point>
+      <Point>AS466</Point>
+      <Point>DIGLA</Point>
+      <Point>ELLOW</Point>
+      <Point>NAMIT</Point>
+      <Point>AS476</Point>
+      <Point>GAFER</Point>
+      <Point>HONGI</Point>
+      <Point>IDANU</Point>
+      <Point>KALUG</Point>
+      <Point>RUGMU</Point>
+      <Point>IGDEB</Point>
+      <Point>LEESA</Point>
+      <Point>AS404</Point>
+      <Point>AS406</Point>
+      <Point>DINGO</Point>
+      <Point>AS424</Point>
+      <Point>AS416</Point>
+      <Point>AS428</Point>
+      <Point>JIRRA</Point>
+      <Point>AS488</Point>
+      <Point>AS492</Point>
+      <Point>AS496</Point>
+      <Point>AS552</Point>
+      <Point>PULOL</Point>
+      <Point>AS412</Point>
+      <Point>SADEL</Point>
+      <Point>AS462</Point>
+      <Point>SCOTI</Point>
+      <Point>AS472</Point>
+      <Point>VIMET</Point>
+      <Point>YOTHU</Point>
+      <Point>OLREB</Point>
+      <Point>PUMAK</Point>
+      <Point>SARAH</Point>
+      <Point>STEEL</Point>
+      <Point>TNK VOR</Point>
+      <Point>TUMSO</Point>
+      <Point>ANZAC</Point>
+      <Point>GOMUL</Point>
+      <Point>MITTS</Point>
+      <Point>OLNAM</Point>
+      <Point>ANGAS</Point>
+      <Point>AYE NDB</Point>
+      <Point>CINDA</Point>
+      <Point>DERAK</Point>
+      <Point>WILLS</Point>
+      <Point>LUVAV</Point>
+      <Point>TREBL</Point>
+    </Label>
+  </Map>
+</Maps>

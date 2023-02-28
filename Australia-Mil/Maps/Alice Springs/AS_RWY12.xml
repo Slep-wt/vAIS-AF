@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AS_RWY12" Priority="1" Center="-23.808333+133.900833">
+    <!--YBAS-->
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-23.801031+133.893361" ExtendedCentrelineTrack="300.25" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="30" Position="-23.812119+133.914028" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy12 DESET4-->
+      -234843.630+1335450.500/
+      -234855.875+1335513.625/
+      -235014.224+1335529.946/
+      DESET
+    </Line>
+    <Line>
+      <!--Rwy12 DIGLA3-->
+      -234843.630+1335450.500/
+      -234905.693+1335532.910/
+      -234811.852+1335821.315/
+      -233930.189+1335029.541/
+      DIGLA
+    </Line>
+    <Line>
+      <!--Rwy12 ELLOW3-->
+      -234855.875+1335513.625/
+      -235224.164+1335601.377/
+      ELLOW
+    </Line>
+    <Line>
+      <!--Rwy12 GAFER3-->
+      -234811.852+1335821.315/
+      -234201.307+1340306.561/
+      GAFER
+    </Line>
+    <Line>
+      <!--Rwy12 HONGI3-->
+      -234811.852+1335821.315/
+      -234406.337+1334847.578/
+      HONGI
+    </Line>
+    <Line>
+      <!--Rwy12 IDANU3-->
+      -234855.875+1335513.625/
+      -235052.976+1335507.513/
+      IDANU
+    </Line>
+    <Line>
+      <!--Rwy12 KALUG3-->
+      -234855.875+1335513.625/
+      -235612.900+1340404.000/
+      KALUG
+    </Line>
+    <Line>
+      <!--Rwy12 LEESA5-->
+      -234843.630+1335450.500/
+      PUNED/
+      BODAS/
+      OSINA/
+      IGDEB/
+      LEESA
+    </Line>
+    <Line>
+      <!--Rwy12 MINIM2-->
+      -234843.630+1335450.500/
+      MINIM
+    </Line>
+    <Line>
+      <!--Rwy12 MINIM2.ELLOW-->
+      MINIM/
+      -235108.204+1335857.968/
+      -235210.676+1335949.611/
+      -235323.241+1340021.824/
+      -235440.957+1340032.405/
+      -235533.651+1340026.664/
+      AS500/
+      -235733.382+1335958.251/
+      -235851.558+1340003.361/
+      -235957.791+1340026.556/
+      AS504/
+      ELLOW
+    </Line>
+    <Line>
+      <!--Rwy12 MINIM2.GAFER-->
+      MINIM/
+      -235101.795+1340033.844/
+      -235022.734+1340318.169/
+      -234833.726+1340519.073/
+      -234638.219+1340601.533/
+      AS532/
+      -234323.340+1340605.484/
+      -234121.367+1340655.827/
+      -233943.829+1340821.035/
+      AS534/
+      GAFER
+    </Line>
+    <Line>
+      <!--Rwy12 MINIM2.KALUG-->
+      MINIM/
+      -235146.420+1335951.925/
+      -235247.556+1340048.229/
+      AS414/
+      AS428/
+      KALUG
+    </Line>
+    <Line>
+      <!--Rwy12 MINIM2.PULOL-->
+      MINIM/
+      -235245.116+1340401.433/
+      -235336.551+1341043.503/
+      -235331.485+1341253.944/
+      AS440/
+      -235313.150+1341609.633/
+      -235318.142+1341641.575/
+      AS484/
+      PULOL
+    </Line>
+    <Line>
+      <!--Rwy12 MINIM2.SADEL-->
+      AS500/
+      -240015.820+1335921.203/
+      -240421.314+1335936.885/
+      -240558.898+1340004.065/
+      AS512/
+      SADEL
+    </Line>
+    <Line>
+      <!--Rwy12 MINIM2.SCOTI-->
+      AS532/
+      -234411.992+1340540.027/
+      -234317.272+1340508.817/
+      AS540/
+      AS544/
+      -232039.620+1334822.379/
+      -231827.880+1334742.223/
+      AS546/
+      SCOTI
+    </Line>
+    <Line>
+      <!--Rwy12 MINIM2.YOTHU-->
+      AS500/
+      -235825.511+1335840.811/
+      -235933.513+1335608.008/
+      -235922.549+1335318.457/
+      -235917.200+1335303.404/
+      AS508/
+      AS514/
+      -235541.669+1334629.444/
+      -235500.619+1334449.239/
+      -235444.950+1334300.928/
+      -235455.420+1334111.870/
+      -235527.841+1333937.272/
+      YOTHU
+    </Line>
+    <Line>
+      <!--Rwy12 PULOL3-->
+      -234843.630+1335450.500/
+      -234916.919+1340009.927/
+      -235309.930+1341651.081/
+      PULOL
+    </Line>
+    <Line>
+      <!--Rwy12 PUMAK1-->
+      BODAS/
+      OLREB/
+      PUMAK
+    </Line>
+    <Line>
+      <!--Rwy12 SADEL3-->
+      -234855.875+1335513.625/
+      -235302.394+1335504.332/
+      SADEL
+    </Line>
+    <Line>
+      <!--Rwy12 SARAH3-->
+      -235302.394+1335504.332/
+      SARAH
+    </Line>
+    <Line>
+      <!--Rwy12 SCOTI3-->
+      -234811.852+1335821.315/
+      -234038.623+1335131.383/
+      -231813.147+1334708.201/
+      SCOTI
+    </Line>
+    <Line>
+      <!--Rwy12 STEEL3-->
+      -234855.875+1335513.625/
+      -234930.913+1335838.241/
+      STEEL
+    </Line>
+    <Line>
+      <!--Rwy12 TNK3-->
+      -234811.852+1335821.315/
+      -233722.942+1335329.991/
+      TNK VOR
+    </Line>
+    <Line>
+      <!--Rwy12 TUMSO1-->
+      BODAS/
+      TUMSO
+    </Line>
+    <!--STARs-->
+    <Symbol Type="SolidStar">
+      <Point>PUNED</Point>
+    </Symbol>
+    <Symbol Type="Circle">
+      <Point>TNK VOR</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>DESET</Point>
+      <Point>DIGLA</Point>
+      <Point>ELLOW</Point>
+      <Point>GAFER</Point>
+      <Point>HONGI</Point>
+      <Point>IDANU</Point>
+      <Point>KALUG</Point>
+      <Point>BODAS</Point>
+      <Point>OSINA</Point>
+      <Point>IGDEB</Point>
+      <Point>LEESA</Point>
+      <Point>MINIM</Point>
+      <Point>AS500</Point>
+      <Point>AS504</Point>
+      <Point>AS532</Point>
+      <Point>AS534</Point>
+      <Point>AS414</Point>
+      <Point>AS428</Point>
+      <Point>AS440</Point>
+      <Point>AS484</Point>
+      <Point>PULOL</Point>
+      <Point>AS512</Point>
+      <Point>SADEL</Point>
+      <Point>AS540</Point>
+      <Point>AS544</Point>
+      <Point>AS546</Point>
+      <Point>SCOTI</Point>
+      <Point>AS508</Point>
+      <Point>AS514</Point>
+      <Point>YOTHU</Point>
+      <Point>OLREB</Point>
+      <Point>PUMAK</Point>
+      <Point>SARAH</Point>
+      <Point>STEEL</Point>
+      <Point>TUMSO</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="AS_RWY12_NAMES" Priority="2" Center="-23.808333+133.900833">
+    <Label>
+      <Point>DESET</Point>
+      <Point>DIGLA</Point>
+      <Point>ELLOW</Point>
+      <Point>GAFER</Point>
+      <Point>HONGI</Point>
+      <Point>IDANU</Point>
+      <Point>KALUG</Point>
+      <Point>PUNED</Point>
+      <Point>BODAS</Point>
+      <Point>OSINA</Point>
+      <Point>IGDEB</Point>
+      <Point>LEESA</Point>
+      <Point>MINIM</Point>
+      <Point>AS500</Point>
+      <Point>AS504</Point>
+      <Point>AS532</Point>
+      <Point>AS534</Point>
+      <Point>AS414</Point>
+      <Point>AS428</Point>
+      <Point>AS440</Point>
+      <Point>AS484</Point>
+      <Point>PULOL</Point>
+      <Point>AS512</Point>
+      <Point>SADEL</Point>
+      <Point>AS540</Point>
+      <Point>AS544</Point>
+      <Point>AS546</Point>
+      <Point>SCOTI</Point>
+      <Point>AS508</Point>
+      <Point>AS514</Point>
+      <Point>YOTHU</Point>
+      <Point>OLREB</Point>
+      <Point>PUMAK</Point>
+      <Point>SARAH</Point>
+      <Point>STEEL</Point>
+      <Point>TNK VOR</Point>
+      <Point>TUMSO</Point>
+      <Point>ANZAC</Point>
+      <Point>GOMUL</Point>
+      <Point>MITTS</Point>
+      <Point>OLNAM</Point>
+      <Point>ANGAS</Point>
+      <Point>AYE NDB</Point>
+      <Point>CINDA</Point>
+      <Point>DERAK</Point>
+      <Point>WILLS</Point>
+      <Point>LUVAV</Point>
+      <Point>TREBL</Point>
+    </Label>
+  </Map>
+</Maps>

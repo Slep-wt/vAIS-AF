@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="CB_TCU" Priority="1" Center="-35.306944+149.195000">
+    <!--YSCB-->
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-35.300683+149.185153" />
+      <Threshold Name="30" Position="-35.309997+149.198761" />
+    </Runway>
+    <Runway Name="17/35">
+      <Threshold Name="17" Position="-35.290628+149.194442" />
+      <Threshold Name="35" Position="-35.314808+149.194444" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--H65-->
+      TESAT/
+      WOL NDB/
+      RAZZI
+    </Line>
+    <Line>
+      <!--J42-->
+      ARRAN/
+      AY VOR
+    </Line>
+    <Line>
+      <!--V169-->
+      TESAT/
+      PEGSU/
+      EXETA/
+      BUNGO
+    </Line>
+    <Line>
+      <!--V169-->
+      DUBUS/
+      WAZZA/
+      TEMIS/
+      BOYSE
+    </Line>
+    <Line>
+      <!--W137-->
+      AVBEG/
+      CWR NDB/
+      MUDGI
+    </Line>
+    <Line>
+      <!--W138-->
+      PEGSU/
+      GLB NDB
+    </Line>
+    <Line>
+      <!--W222-->
+      YHOT/
+      SOVRU
+    </Line>
+    <Line>
+      <!--W266-->
+      HOWLY/
+      BORLI
+    </Line>
+    <Line>
+      <!--W290-->
+      COM NDB/
+      VISER/
+      ESL NDB
+    </Line>
+    <Line>
+      <!--W377-->
+      UGVER/
+      WOLBI
+    </Line>
+    <Line>
+      <!--W423-->
+      BTH NDB/
+      CULIN
+    </Line>
+    <Line>
+      <!--W545-->
+      WG VOR/
+      POPLA/
+      IGDEL
+    </Line>
+    <Line>
+      <!--W643-->
+      NOLUN/
+      MER NDB
+    </Line>
+    <Line>
+      <!--Z54-->
+      LTV NDB/
+      DADER
+    </Line>
+    <!--(CB) TCU Airspace-->
+    <Line Name="(CB) TCU-CBE/CBW_Split" Width="1.7" Pattern="Dotted">
+      -345224.081+1491137.797/-354040.022+1491141.642
+    </Line>
+  </Map>
+  <Map Type="System2" Name="CB_VFR" Priority="1" Center="-35.306944+149.195000">
+    <Symbol Type="HollowSquare">
+      <Point>BIDG</Point>
+      <Point>BDGE</Point>
+      <Point>BKM</Point>
+      <Point>OBSTM</Point>
+      <Point>BEN</Point>
+      <Point>URG</Point>
+      <Point>BJK</Point>
+      <Point>RCSE</Point>
+      <Point>CAPT</Point>
+      <Point>CPNG</Point>
+      <Point>CVR</Point>
+      <Point>COTR</Point>
+      <Point>GLEN</Point>
+      <Point>GGV</Point>
+      <Point>GUNN</Point>
+      <Point>HALL</Point>
+      <Point>HST</Point>
+      <Point>KIAN</Point>
+      <Point>LBT</Point>
+      <Point>LGGN</Point>
+      <Point>LGGS</Point>
+      <Point>LGDA</Point>
+      <Point>MHGO</Point>
+      <Point>MCRO</Point>
+      <Point>TCR</Point>
+      <Point>MTM</Point>
+      <Point>MPG</Point>
+      <Point>MUM</Point>
+      <Point>MTLR</Point>
+      <Point>MMM</Point>
+      <Point>QBN</Point>
+      <Point>SUE</Point>
+      <Point>TAGO</Point>
+      <Point>THW</Point>
+      <Point>TGC</Point>
+      <Point>ASST</Point>
+    </Symbol>
+    <Label HasLeader="True">
+      <Point>BIDG</Point>
+      <Point>BDGE</Point>
+      <Point>BKM</Point>
+      <Point>OBSTM</Point>
+      <Point>BEN</Point>
+      <Point>URG</Point>
+      <Point>BJK</Point>
+      <Point>RCSE</Point>
+      <Point>CAPT</Point>
+      <Point>CPNG</Point>
+      <Point>CVR</Point>
+      <Point>COTR</Point>
+      <Point>GLEN</Point>
+      <Point>GGV</Point>
+      <Point>GUNN</Point>
+      <Point>HALL</Point>
+      <Point>HST</Point>
+      <Point>KIAN</Point>
+      <Point>LBT</Point>
+      <Point>LGGN</Point>
+      <Point>LGGS</Point>
+      <Point>LGDA</Point>
+      <Point>MHGO</Point>
+      <Point>MCRO</Point>
+      <Point>TCR</Point>
+      <Point>MTM</Point>
+      <Point>MPG</Point>
+      <Point>MUM</Point>
+      <Point>MTLR</Point>
+      <Point>MMM</Point>
+      <Point>QBN</Point>
+      <Point>SUE</Point>
+      <Point>TAGO</Point>
+      <Point>THW</Point>
+      <Point>TGC</Point>
+      <Point>ASST</Point>
+    </Label>
+    <Label HasLeader="True" LabelOrientation="NW">
+      <Point Name="CITY_ONE_ROUTE">BKM</Point>
+      <Point Name="CITY_TWO_ROUTE">LGDA</Point>
+      <Point Name="SW_ROUTE">THW</Point>
+    </Label>
+    <!--CITY_ONE_ROUTE-->
+    <Line Pattern="Dotted">
+      BKM/MTM/YSCB/RCSE/BKM
+    </Line>
+    <!--CITY_TWO_ROUTE-->
+    <Line Pattern="Dotted">
+      LGDA/CPNG/MTLR/MTM/YSCB/RCSE/LGDA
+    </Line>
+    <!--SW_ROUTE-->
+    <Line Pattern="Dotted">
+      THW/BIDG/COTR
+    </Line>
+  </Map>
+  <Map Type="System2" Name="CB_VFR_FULL_NAME" Priority="1" Center="-35.306944+149.195000">
+    <Label HasLeader="True" LabelOrientation="SW">
+      <Point Name="BIDGEE 1 ACT">BIDG</Point>
+      <Point Name="BIDGEE 2 ACT">BDGE</Point>
+      <Point Name="BLACK MT ACT">BKM</Point>
+      <Point Name="BRUCE STADIUM ACT">OBSTM</Point>
+      <Point Name="BUNGENDORE">BEN</Point>
+      <Point Name="BURBONG">URG</Point>
+      <Point Name="BURRINJUCK">BJK</Point>
+      <Point Name="CANBERRA RACECOURSE ACT">RCSE</Point>
+      <Point Name="CAPTAINS FLAT">CAPT</Point>
+      <Point Name="COPPINS CROSSING ACT">CPNG</Point>
+      <Point Name="CORIN RESV ACT">CVR</Point>
+      <Point Name="COTTER ACT">COTR</Point>
+      <Point Name="GLENLOCH INTERCHANGE">GLEN</Point>
+      <Point Name="GOOGONG RESV">GGV</Point>
+      <Point Name="GUNNING">GUNN</Point>
+      <Point Name="HALL ACT">HALL</Point>
+      <Point Name="HOSKINSTOWN">HST</Point>
+      <Point Name="KIANDRA">KIAN</Point>
+      <Point Name="LAKE BATHURST">LBT</Point>
+      <Point Name="LAKE GEORGE NORTH">LGGN</Point>
+      <Point Name="LAKE GEORGE SOUTH">LGGS</Point>
+      <Point Name="LAKE GININDERRA ACT">LGDA</Point>
+      <Point Name="MICHELAGO">MHGO</Point>
+      <Point Name="MILLS CROSS">MCRO</Point>
+      <Point Name="MOUNT COREE ACT">TCR</Point>
+      <Point Name="MOUNT MUGGA ACT">MTM</Point>
+      <Point Name="MOUNT PALERANG">MPG</Point>
+      <Point Name="MOUNT STROMLO ACT">MUM</Point>
+      <Point Name="MOUNT TAYLOR ACT">MTLR</Point>
+      <Point Name="MURRUMBATEMAN">MMM</Point>
+      <Point Name="QUEANBEYAN">QBN</Point>
+      <Point Name="SUTTON ROAD OVERPASS">SUE</Point>
+      <Point Name="TARAGO">TAGO</Point>
+      <Point Name="THARWA ACT">THW</Point>
+      <Point Name="TUGGERANONG TOWN CENTRE ACT">TGC</Point>
+      <Point Name="YASS TOWNSHIP">ASST</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="YSCB_ALLRWYS" Priority="2" Center="-35.306944+149.195000">
+    <!--YSCB-->
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-35.300683+149.185153" ExtendedCentrelineTrack="309.86" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="30" Position="-35.309997+149.198761" ExtendedCentrelineTrack="129.86" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--YSCB-->
+    <Runway Name="17/35">
+      <Threshold Name="17" Position="-35.290628+149.194442" ExtendedCentrelineTrack="359.99" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="35" Position="-35.314808+149.194444" ExtendedCentrelineTrack="179.99" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+  </Map>
+</Maps>

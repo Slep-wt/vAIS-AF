@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="SY_RWY07" Priority="1" Center="-33.946111+151.177222">
+    <!--YSSY-->
+    <Runway Name="07/25">
+      <Threshold Name="07" Position="-33.943739+151.163628" ExtendedCentrelineTrack="254.19" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="25" Position="-33.937775+151.188908" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy07 FISHA8-->
+      -335615.990+1511120.070/
+      -335610.038+1511335.517/
+      FISHA
+    </Line>
+    <Line>
+      <!--Rwy07 FISHA8.ENTRA-->
+      FISHA/
+      -335433.974+1512248.524/
+      -335416.928+1512353.474/
+      -335334.313+1512452.536/
+      ENTRA
+    </Line>
+    <Line>
+      <!--Rwy07 FISHA8.WOL-->
+      FISHA/
+      -335435.277+1512240.086/
+      -335430.055+1512350.730/
+      -335440.255+1512439.171/
+      -335505.967+1512525.336/
+      -335552.096+1512603.118/
+      -335647.454+1512615.190/
+      -335734.091+1512603.770/
+      -335818.852+1512530.291/
+      WOL NDB
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy07 BORE3A-->
+      BOREE/
+      VASRA/
+      BEROW/
+      OVILS
+    </Line>
+    <Line>
+      <!--Rwy07 MARLN5-->
+      MARLN/
+      BIKUS/
+      WHALE/
+      PRAWN/
+      TESAT
+    </Line>
+    <Line>
+      <!--Rwy07 MEPIL3.SANAD-->
+      SANAD/
+      OLTIN/
+      YAKKA/
+      MEPIL
+    </Line>
+    <Line>
+      <!--Rwy07 MEPIL3-->
+      MEPIL/
+      LANOL/
+      TESAT
+    </Line>
+    <Line>
+      <!--Rwy07 ODALE7-->
+      ODALE/
+      KABLO/
+      MITSA/
+      ANKUB/
+      TESAT
+    </Line>
+    <Line>
+      <!--Rwy07 RIVET3-->
+      RIVET/
+      BIGEM/
+      TAMMI/
+      BOOGI/
+      TESAT
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>ANKUB</Point>
+    </Symbol>
+    <Symbol Type="SolidStar">
+      <Point>FISHA</Point>
+    </Symbol>
+    <Symbol Type="Circle">
+      <Point>WOL NDB</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>ENTRA</Point>
+      <Point>BOREE</Point>
+      <Point>VASRA</Point>
+      <Point>BEROW</Point>
+      <Point>OVILS</Point>
+      <Point>MARLN</Point>
+      <Point>BIKUS</Point>
+      <Point>WHALE</Point>
+      <Point>PRAWN</Point>
+      <Point>TESAT</Point>
+      <Point>SANAD</Point>
+      <Point>OLTIN</Point>
+      <Point>YAKKA</Point>
+      <Point>MEPIL</Point>
+      <Point>LANOL</Point>
+      <Point>ODALE</Point>
+      <Point>KABLO</Point>
+      <Point>MITSA</Point>
+      <Point>RIVET</Point>
+      <Point>BIGEM</Point>
+      <Point>TAMMI</Point>
+      <Point>BOOGI</Point>
+    </Symbol>
+    <!--(SY) RWY07 Airspace-->
+    <Line Name="(SY) RWY07" Width="1.7" Pattern="Dotted">
+      -331422.000+1505212.000/-333257.000+1510119.000/-333424.330+1510145.758/-333626.206+1510158.889/-333828.131+1510146.410/-334026.396+1510108.670/-334033.000+1510102.000/-334111.000+1510037.000/-335434.000+1505222.000/-334947.000+1510708.000/-335459.000+1511004.000/-335812.000+1511101.000/-340428.000+1510849.000/-335951.000+1512445.000/-340401.000+1520420.000
+    </Line>
+    <Line Name="(SY) RWY07_1" Width="1.7" Pattern="Dotted">
+      -335959.000+1520455.000/-335536.000+1511635.000/-335059.000+1511357.000/-333839.000+1511345.000/-331203.000+1511818.000
+    </Line>
+    <Line Name="(SY) RWY07_2" Width="1.7" Pattern="Dotted">
+      -335433.000+1505222.000/-335619.000+1504655.000/-335701.000+1504446.000/-335843.000+1504427.000/-340540.000+1501753.000
+    </Line>
+    <Line Name="(SY) RWY07_3" Width="1.7" Pattern="Dotted">
+      -342007.000+1502443.000/-341327.242+1504057.530/-341018.000+1504839.000/-340914.000+1505219.000/-340428.000+1510849.000
+    </Line>
+    <Line Name="(SY) RWY07_4" Width="1.7" Pattern="Dotted">
+      -341327.242+1504057.530/-341134.015+1503932.402/-340648.952+1503654.003/-340145.431+1503518.044/-340108.302+1503511.580
+    </Line>
+    <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
+      <!--(SY) RWY07 Labels-->
+      <Point Name="SAN 60/SDN 50">-33.477754+151.112072</Point>
+      <Point Name="SAN 60/SDN 50">-33.981437+151.301630</Point>
+      <Point Name="SAS">-34.169444+150.455833</Point>
+      <Point Name="SDN">-33.656944+150.628056</Point>
+      <Point Name="SDN">-33.714841+151.639321</Point>
+      <Point Name="SDS">-34.404444+151.188611</Point>
+      <Point Name="SFW">-34.113391+150.689324</Point>
+      <Point Name="SFW/SDN">-33.908240+150.979356</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="SY_RWY07_NAMES" Priority="2" Center="-33.946111+151.177222">
+    <Label>
+      <Point>FISHA</Point>
+      <Point>ENTRA</Point>
+      <Point>WOL NDB</Point>
+      <Point>BOREE</Point>
+      <Point>VASRA</Point>
+      <Point>BEROW</Point>
+      <Point>OVILS</Point>
+      <Point>MARLN</Point>
+      <Point>BIKUS</Point>
+      <Point>WHALE</Point>
+      <Point>PRAWN</Point>
+      <Point>TESAT</Point>
+      <Point>SANAD</Point>
+      <Point>OLTIN</Point>
+      <Point>YAKKA</Point>
+      <Point>MEPIL</Point>
+      <Point>LANOL</Point>
+      <Point>ODALE</Point>
+      <Point>KABLO</Point>
+      <Point>MITSA</Point>
+      <Point>ANKUB</Point>
+      <Point>RIVET</Point>
+      <Point>BIGEM</Point>
+      <Point>TAMMI</Point>
+      <Point>BOOGI</Point>
+      <Point>KADOM</Point>
+      <Point>PKS VOR</Point>
+      <Point>NOBAR</Point>
+      <Point>ABARB</Point>
+      <Point>DIPSO</Point>
+      <Point>GUTIV</Point>
+      <Point>INVUS</Point>
+      <Point>ATNAT</Point>
+      <Point>SOTKI</Point>
+      <Point>EMTEL</Point>
+      <Point>VIREN</Point>
+      <Point>SCO NDB</Point>
+      <Point>CORKY</Point>
+      <Point>SADLO</Point>
+      <Point>RAZZI</Point>
+      <Point>CB VOR</Point>
+      <Point>OVMIN</Point>
+      <Point>LOVGO</Point>
+      <Point>VAPKI</Point>
+      <Point>NBR NDB</Point>
+      <Point>MARTO</Point>
+      <Point>SUMSA</Point>
+      <Point>WLM NDB</Point>
+      <Point>BANDA</Point>
+      <Point>BOYSY</Point>
+      <Point>EMROT</Point>
+      <Point>MISIT</Point>
+      <Point>MUDGI</Point>
+      <Point>MOVBU</Point>
+      <Point>DAMAG</Point>
+      <Point>BIDNO</Point>
+      <Point>EVONN</Point>
+      <Point>GEROS</Point>
+      <Point>PLUGA</Point>
+      <Point>CAWLY</Point>
+      <Point>AKALU</Point>
+      <Point>NONID</Point>
+      <Point>RIKNI</Point>
+      <Point>KAMBA</Point>
+      <Point>TOOKI</Point>
+      <Point>REVGU</Point>
+      <Point>LATUT</Point>
+      <Point>CFS VOR</Point>
+      <Point>PEGSU</Point>
+      <Point>EXETA</Point>
+      <Point>BUNGO</Point>
+      <Point>DUBUS</Point>
+      <Point>SOFAL</Point>
+      <Point>DU NDB</Point>
+      <Point>ENPAG</Point>
+      <Point>RUTOS</Point>
+      <Point>SCATZ</Point>
+      <Point>ANBAN</Point>
+      <Point>WG VOR</Point>
+      <Point>HAPPI</Point>
+      <Point>AKMIR</Point>
+      <Point>WELSH</Point>
+      <Point>ARM NDB</Point>
+      <Point>MONDO</Point>
+      <Point>LOWEP</Point>
+      <Point>SORTI</Point>
+      <Point>MAKOR</Point>
+      <Point>DONIC</Point>
+      <Point>EGEVO</Point>
+      <Point>BTH NDB</Point>
+      <Point>EBONY</Point>
+      <Point>ARRAN</Point>
+      <Point>NONUP</Point>
+      <Point>CULIN</Point>
+      <Point>TARAL</Point>
+      <Point>OPTIC</Point>
+      <Point>TONIM</Point>
+    </Label>
+  </Map>
+</Maps>

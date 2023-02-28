@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="PH_RWY0306" Priority="1" Center="-31.940278+115.966944">
+    <!--YPPH-->
+    <Runway Name="03/21">
+      <Threshold Name="03" Position="-31.958739+115.959683" ExtendedCentrelineTrack="193.95" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="21" Position="-31.928594+115.968464" />
+    </Runway>
+    <Runway Name="06/24">
+      <Threshold Name="06" Position="-31.940989+115.959203" ExtendedCentrelineTrack="238.89" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="24" Position="-31.930908+115.978792" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy03 AMANA2-->
+      -315542.940+1155806.470/
+      MIDLA/
+      ALWYN/
+      AMANA
+    </Line>
+    <Line>
+      <!--Rwy03 AVNEX3-->
+      MIDLA/
+      ANCOR/
+      BUDMA/
+      AVPES/
+      HARBY/
+      SAKOM/
+      VENUP/
+      AVNEX
+    </Line>
+    <Line>
+      <!--Rwy03 HECTO2-->
+      AMANA/
+      MECKI/
+      BIRER/
+      HECTO
+    </Line>
+    <Line>
+      <!--Rwy03 KEELS5-->
+      MIDLA/
+      KETCH/
+      WAVES/
+      SAILS/
+      BRIGG/
+      KEELS
+    </Line>
+    <Line>
+      <!--Rwy03 MANDU3-->
+      MIDLA/
+      GALLI/
+      SWANN/
+      MANDU
+    </Line>
+    <Line>
+      <!--Rwy03 MEMUP2-->
+      BIRER/
+      MEMUP
+    </Line>
+    <Line>
+      <!--Rwy03 MUBID1-->
+      BIRER/
+      MUBID
+    </Line>
+    <Line>
+      <!--Rwy03 OTLED3-->
+      ANCOR/
+      ENSUR/
+      LIDGI/
+      ORATI/
+      OSADA/
+      POSAS/
+      IRNOD/
+      LEVKA/
+      OTLED
+    </Line>
+    <Line>
+      <!--Rwy03 PIKIL2-->
+      -315542.940+1155806.470/
+      -315225.251+1155959.883/
+      HOVEA/
+      DORIS/
+      PIKIL
+    </Line>
+    <Line>
+      <!--Rwy03 RANGU8-->
+      -315542.940+1155806.470/
+      -315540.732+1155802.382/
+      -315528.901+1155804.374/
+      -315503.609+1155758.800/
+      -315452.406+1155750.666/
+      -315442.905+1155739.459/
+      -315435.713+1155725.706/
+      -315431.354+1155710.237/
+      -315429.823+1155653.803/
+      -315430.126+1155637.223/
+      -315526.185+1155040.181/
+      -315527.693+1155018.280/
+      -315528.392+1154943.955/
+      -315527.627+1154925.285/
+      -315526.174+1154906.501/
+      -315524.310+1154847.849/
+      -315522.194+1154829.300/
+      -315519.910+1154810.733/
+      RANGU/
+      BUVEL
+    </Line>
+    <Line>
+      <!--Rwy03 RAVON3-->
+      -315542.940+1155806.470/
+      -315539.619+1155806.971/
+      -315430.678+1155824.617/
+      -315416.228+1155831.518/
+      -315403.046+1155841.406/
+      -315351.479+1155853.927/
+      -315341.947+1155908.665/
+      -315334.889+1155924.835/
+      ALWYN/
+      TOODY/
+      RAVON
+    </Line>
+    <Line>
+      <!--Rwy03 SOLUS3-->
+      SWANN/
+      JANDO/
+      MOCUR/
+      SOLUS
+    </Line>
+    <Line>
+      <!--Rwy03 YNRV2-->
+      BIRER/
+      YNRV
+    </Line>
+    <Line>
+      <!--Rwy06 AMANA2-->
+      -315551.270+1155843.650/
+      ALWYN
+    </Line>
+    <Line>
+      <!--Rwy06 AVNEX3-->
+      -315551.270+1155843.650/
+      -315459.990+1160021.547/
+      MIDLA
+    </Line>
+    <Line>
+      <!--Rwy06 HECTO2-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 KEELS5-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 MANDU3-->
+      -315551.270+1155843.650/
+      -315553.874+1155838.237/
+      -315540.287+1155905.166/
+      -315532.836+1155919.970/
+      -315522.582+1155940.294/
+      -315513.810+1155955.962/
+      -315502.972+1160010.963/
+      -315449.805+1160024.332/
+      -315434.228+1160035.918/
+      MIDLA
+    </Line>
+    <Line>
+      <!--Rwy06 MEMUP2-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 MUBID1-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 OTLED3-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 PIKIL2-->
+      -315551.270+1155843.650/
+      HOVEA
+    </Line>
+    <Line>
+      <!--Rwy06 RANGU8-->
+      -315551.270+1155843.650/
+      -315555.060+1155832.897/
+      -315550.585+1155840.261/
+      -315544.260+1155850.592/
+      -315535.465+1155904.711/
+      -315529.132+1155912.925/
+      -315520.760+1155919.198/
+      -315510.802+1155922.634/
+      -315459.869+1155922.824/
+      -315449.047+1155919.656/
+      -315438.907+1155913.223/
+      -315430.123+1155903.756/
+      -315423.368+1155851.745/
+      -315419.170+1155837.950/
+      -315417.627+1155823.093/
+      -315417.816+1155807.803/
+      -315418.920+1155752.481/
+      -315420.628+1155736.621/
+      -315422.710+1155720.371/
+      -315425.007+1155703.975/
+      -315427.506+1155647.095/
+      -315430.139+1155629.940/
+      -315432.867+1155612.558/
+      -315526.185+1155040.181
+    </Line>
+    <Line>
+      <!--Rwy06 RAVON3-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 SOLUS3-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 YNRV2-->
+      
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy03 BEVL5A-->
+      BEVLY/
+      KYEMA/
+      MESAM/
+      WUNGO/
+      HARMN/
+      TIMMY
+    </Line>
+    <Line>
+      <!--Rwy03 BEVL5V-->
+      KYEMA/
+      VAVGA/
+      KARGO
+    </Line>
+    <Line>
+      <!--Rwy03 BEVL5X-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 CONI4A-->
+      CONNI/
+      OLGEK/
+      WOORA/
+      HERNE/
+      GUNGN/
+      PUDUS/
+      MESAM
+    </Line>
+    <Line>
+      <!--Rwy03 CONI4V-->
+      HERNE/
+      RUMAK/
+      SAPUG/
+      TOGAM/
+      KARGO
+    </Line>
+    <Line>
+      <!--Rwy03 CONI4X-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 DAYL4A.HAMTN-->
+      HAMTN/
+      DAYLR
+    </Line>
+    <Line>
+      <!--Rwy03 DAYL4A-->
+      DAYLR/
+      MESAM
+    </Line>
+    <Line>
+      <!--Rwy03 DAYL4V.HAMTN-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 DAYL4V-->
+      DAYLR/
+      KOIKI/
+      KARGO
+    </Line>
+    <Line>
+      <!--Rwy03 DAYL4X.HAMTN-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 DAYL4X-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 GREN5A-->
+      GRENE/
+      BOOKA/
+      MESAM
+    </Line>
+    <Line>
+      <!--Rwy03 GREN5V-->
+      BOOKA/
+      MATJI/
+      KARGO
+    </Line>
+    <Line>
+      <!--Rwy03 GREN5X-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 JULI5A-->
+      JULIM/
+      YIREE/
+      WOORA
+    </Line>
+    <Line>
+      <!--Rwy03 JULI5V-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 JULI5X-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 SOLU2A-->
+      SOLUS/
+      MOCUR/
+      HARMN
+    </Line>
+    <Line>
+      <!--Rwy03 SOLU2V-->
+      SOLUS/
+      MESAM/
+      KARGO
+    </Line>
+    <Line>
+      <!--Rwy03 SOLU2X-->
+      
+    </Line>
+    <Line>
+      <!--Rwy03 WAVE3A.BRIGG-->
+      BRIGG/
+      BITAP/
+      SAILS/
+      WAVES
+    </Line>
+    <Line>
+      <!--Rwy03 WAVE3A-->
+      WAVES/
+      HAYCO/
+      SADOL/
+      HARMN
+    </Line>
+    <Line>
+      <!--Rwy06 BEVL5A-->
+      HARMN/
+      BIBRA/
+      LENNY
+    </Line>
+    <Line>
+      <!--Rwy06 BEVL5V-->
+      KARGO/
+      SAGAR
+    </Line>
+    <Line>
+      <!--Rwy06 CONI4A-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 CONI4V-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 DAYL4A.HAMTN-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 DAYL4A-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 DAYL4V.HAMTN-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 DAYL4V-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 GREN5A-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 GREN5V-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 JULI5A-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 JULI5V-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 SOLU2A-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 SOLU2V-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 WAVE3A.BRIGG-->
+      
+    </Line>
+    <Line>
+      <!--Rwy06 WAVE3A-->
+      WAVES/
+      ORIDO/
+      LENNY
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>TIMMY</Point>
+      <Point>KARGO</Point>
+      <Point>LENNY</Point>
+      <Point>SAGAR</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>MIDLA</Point>
+      <Point>ALWYN</Point>
+      <Point>AMANA</Point>
+      <Point>ANCOR</Point>
+      <Point>BUDMA</Point>
+      <Point>AVPES</Point>
+      <Point>HARBY</Point>
+      <Point>SAKOM</Point>
+      <Point>VENUP</Point>
+      <Point>AVNEX</Point>
+      <Point>MECKI</Point>
+      <Point>BIRER</Point>
+      <Point>HECTO</Point>
+      <Point>KETCH</Point>
+      <Point>WAVES</Point>
+      <Point>SAILS</Point>
+      <Point>BRIGG</Point>
+      <Point>KEELS</Point>
+      <Point>GALLI</Point>
+      <Point>SWANN</Point>
+      <Point>MANDU</Point>
+      <Point>MEMUP</Point>
+      <Point>MUBID</Point>
+      <Point>ENSUR</Point>
+      <Point>LIDGI</Point>
+      <Point>ORATI</Point>
+      <Point>OSADA</Point>
+      <Point>POSAS</Point>
+      <Point>IRNOD</Point>
+      <Point>LEVKA</Point>
+      <Point>OTLED</Point>
+      <Point>HOVEA</Point>
+      <Point>DORIS</Point>
+      <Point>PIKIL</Point>
+      <Point>RANGU</Point>
+      <Point>BUVEL</Point>
+      <Point>TOODY</Point>
+      <Point>RAVON</Point>
+      <Point>JANDO</Point>
+      <Point>MOCUR</Point>
+      <Point>SOLUS</Point>
+      <Point>YNRV</Point>
+      <Point>BEVLY</Point>
+      <Point>KYEMA</Point>
+      <Point>MESAM</Point>
+      <Point>WUNGO</Point>
+      <Point>HARMN</Point>
+      <Point>VAVGA</Point>
+      <Point>CONNI</Point>
+      <Point>OLGEK</Point>
+      <Point>WOORA</Point>
+      <Point>HERNE</Point>
+      <Point>GUNGN</Point>
+      <Point>PUDUS</Point>
+      <Point>RUMAK</Point>
+      <Point>SAPUG</Point>
+      <Point>TOGAM</Point>
+      <Point>HAMTN</Point>
+      <Point>DAYLR</Point>
+      <Point>KOIKI</Point>
+      <Point>GRENE</Point>
+      <Point>BOOKA</Point>
+      <Point>MATJI</Point>
+      <Point>JULIM</Point>
+      <Point>YIREE</Point>
+      <Point>BITAP</Point>
+      <Point>HAYCO</Point>
+      <Point>SADOL</Point>
+      <Point>BIBRA</Point>
+      <Point>ORIDO</Point>
+    </Symbol>
+    <!--(PH) RWY0306 Airspace-->
+    <Line Name="(PH) RWY0306" Width="1.7" Pattern="Dotted">
+      -313209.000+1162831.000/-314513.000+1160919.000/-314812.000+1160648.000/-315649.000+1161112.000/-315658.000+1163953.000
+    </Line>
+    <Line Name="(PH) RWY0306_1" Width="1.7" Pattern="Dotted">
+      -315649.000+1161112.000/-315642.000+1155734.000/-312228.000+1161051.000
+    </Line>
+    <Line Name="(PH) RWY0306_2" Width="1.7" Pattern="Dotted">
+      -315642.000+1155734.000/-315641.000+1155509.000/-315611.461+1155459.259/-315540.757+1155442.365/-315513.009+1155419.450/-315449.057+1155351.209/-315429.630+1155318.502/-315415.317+1155242.320/-315406.552+1155203.763/-315403.600+1155124.000/-315406.552+1155044.237/-315415.317+1155005.680/-315429.630+1154929.498/-315440.000+1154909.000/-320016.000+1154006.000/-320053.000+1151532.000
+    </Line>
+    <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
+      <!--(PH) RWY0306 Labels-->
+      <Point Name="APP">-31.992500+116.496111</Point>
+      <Point Name="APP">-32.171389+115.473056</Point>
+      <Point Name="APP 70+/DEP 60-">-31.524444+116.269444</Point>
+      <Point Name="DEP">-31.555278+115.763056</Point>
+      <Point Name="DEP">-31.716389+116.455556</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="PH_RWY0306_NAMES" Priority="2" Center="-31.940278+115.966944">
+    <Label>
+      <Point>MIDLA</Point>
+      <Point>ALWYN</Point>
+      <Point>AMANA</Point>
+      <Point>ANCOR</Point>
+      <Point>BUDMA</Point>
+      <Point>AVPES</Point>
+      <Point>HARBY</Point>
+      <Point>SAKOM</Point>
+      <Point>VENUP</Point>
+      <Point>AVNEX</Point>
+      <Point>MECKI</Point>
+      <Point>BIRER</Point>
+      <Point>HECTO</Point>
+      <Point>KETCH</Point>
+      <Point>WAVES</Point>
+      <Point>SAILS</Point>
+      <Point>BRIGG</Point>
+      <Point>KEELS</Point>
+      <Point>GALLI</Point>
+      <Point>SWANN</Point>
+      <Point>MANDU</Point>
+      <Point>MEMUP</Point>
+      <Point>MUBID</Point>
+      <Point>ENSUR</Point>
+      <Point>LIDGI</Point>
+      <Point>ORATI</Point>
+      <Point>OSADA</Point>
+      <Point>POSAS</Point>
+      <Point>IRNOD</Point>
+      <Point>LEVKA</Point>
+      <Point>OTLED</Point>
+      <Point>HOVEA</Point>
+      <Point>DORIS</Point>
+      <Point>PIKIL</Point>
+      <Point>RANGU</Point>
+      <Point>BUVEL</Point>
+      <Point>TOODY</Point>
+      <Point>RAVON</Point>
+      <Point>JANDO</Point>
+      <Point>MOCUR</Point>
+      <Point>SOLUS</Point>
+      <Point>YNRV</Point>
+      <Point>BEVLY</Point>
+      <Point>KYEMA</Point>
+      <Point>MESAM</Point>
+      <Point>WUNGO</Point>
+      <Point>HARMN</Point>
+      <Point>TIMMY</Point>
+      <Point>VAVGA</Point>
+      <Point>KARGO</Point>
+      <Point>CONNI</Point>
+      <Point>OLGEK</Point>
+      <Point>WOORA</Point>
+      <Point>HERNE</Point>
+      <Point>GUNGN</Point>
+      <Point>PUDUS</Point>
+      <Point>RUMAK</Point>
+      <Point>SAPUG</Point>
+      <Point>TOGAM</Point>
+      <Point>HAMTN</Point>
+      <Point>DAYLR</Point>
+      <Point>KOIKI</Point>
+      <Point>GRENE</Point>
+      <Point>BOOKA</Point>
+      <Point>MATJI</Point>
+      <Point>JULIM</Point>
+      <Point>YIREE</Point>
+      <Point>BITAP</Point>
+      <Point>HAYCO</Point>
+      <Point>SADOL</Point>
+      <Point>BIBRA</Point>
+      <Point>LENNY</Point>
+      <Point>SAGAR</Point>
+      <Point>ORIDO</Point>
+      <Point>BROOK</Point>
+      <Point>VEMON</Point>
+      <Point>BURGU</Point>
+      <Point>ONGAR</Point>
+      <Point>DALWU</Point>
+      <Point>AVPAL</Point>
+      <Point>HINDS</Point>
+      <Point>CALIG</Point>
+      <Point>ESMIN</Point>
+      <Point>MERIB</Point>
+      <Point>BLN NDB</Point>
+      <Point>JOSBU</Point>
+      <Point>ABA NDB</Point>
+      <Point>ESDEG</Point>
+      <Point>LAKIR</Point>
+      <Point>MANIG</Point>
+      <Point>LAKMO</Point>
+      <Point>NINEK</Point>
+      <Point>DUTAK</Point>
+      <Point>LAKAV</Point>
+      <Point>BUNGL</Point>
+      <Point>YAHMO</Point>
+      <Point>KELLA</Point>
+      <Point>CANRI</Point>
+      <Point>PUMRY</Point>
+    </Label>
+  </Map>
+</Maps>
