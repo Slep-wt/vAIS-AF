@@ -15477,6 +15477,74 @@ BOFOR
       <Route Runway="22" />
       <Route Runway="27" />
     </SID>
+    <!-- East Sale TERMA SID's -->
+    <SID Name="AY3" Airport="YMES" Runways="04,09,22,27"> <!-- AY3 WIP -->
+      <Route Runway="04">ESL NDB/AY VOR<Route/>
+      <Route Runway="09">ESL NDB/AY VOR<Route/>
+      <Route Runway="22">ESL NDB/AY VOR<Route/>
+      <Route Runway="27">ESL NDB/AY VOR<Route/>
+    </SID>
+    <SID Name="ANTLA2" Airport="YMES" Runways="04,09,22,27"> <!-- ANTLA2 WIP -->
+      <Route Runway="04">ESL NDB/ANTLA<Route/>
+      <Route Runway="09">ESL NDB/ANTLA<Route/>
+      <Route Runway="22">ESL NDB/ANTLA<Route/>
+      <Route Runway="27">ESL NDB/ANTLA<Route/>
+    </SID>
+    <SID Name="BULKO1" Airport="YMES" Runways="04,09,22,27"> <!-- BULKO1 WIP -->
+      <Route Runway="04">ESL NDB/BULKO<Route/>
+      <Route Runway="09">ESL NDB/BULKO<Route/>
+      <Route Runway="22">ESL NDB/BULKO<Route/>
+      <Route Runway="27">ESL NDB/BULKO<Route/>
+    </SID>
+    <SID Name="DUNNE3" Airport="YMES" Runways="04,09,22,27"> <!-- DUNNE3 WIP -->
+      <Route Runway="04">ESL NDB/DUNNE<Route/>
+      <Route Runway="09">ESL NDB/DUNNE<Route/>
+      <Route Runway="22">ESL NDB/DUNNE<Route/>
+      <Route Runway="27">ESL NDB/DUNNE<Route/>
+    </SID>
+    <SID Name="GIPPS3" Airport="YMES" Runways="04,09,22,27"> <!-- GIPPS3 WIP -->
+      <Route Runway="04">ESL NDB/GIPPS<Route/>
+      <Route Runway="09">ESL NDB/GIPPS<Route/>
+      <Route Runway="22">ESL NDB/GIPPS<Route/>
+      <Route Runway="27">ESL NDB/GIPPS<Route/>
+    </SID>
+    <SID Name="MNG3" Airport="YMES" Runways="04,09,22,27"> <!-- MNG3 WIP -->
+      <Route Runway="04">ESL NDB/MNG VOR<Route/>
+      <Route Runway="09">ESL NDB/MNG VOR<Route/>
+      <Route Runway="22">ESL NDB/MNG VOR<Route/>
+      <Route Runway="27">ESL NDB/MNG VOR<Route/>
+    </SID>
+    <SID Name="MOZZA3" Airport="YMES" Runways="04,09,22,27"> <!-- MOZZA3 WIP -->
+      <Route Runway="04">ESL NDB/MOZZA<Route/>
+      <Route Runway="09">ESL NDB/MOZZA<Route/>
+      <Route Runway="22">ESL NDB/MOZZA<Route/>
+      <Route Runway="27">ESL NDB/MOZZA<Route/>
+    </SID>
+    <SID Name="NUNPA2" Airport="YMES" Runways="04,09,22,27"> <!-- NUNPA3 WIP -->
+      <Route Runway="04">ESL NDB/NUNPA<Route/>
+      <Route Runway="09">ESL NDB/NUNPA<Route/>
+      <Route Runway="22">ESL NDB/NUNPA<Route/>
+      <Route Runway="27">ESL NDB/NUNPA<Route/>
+    </SID>
+    <SID Name="VISER1" Airport="YMES" Runways="04,09,22,27"> <!-- VISER1 WIP -->
+      <Route Runway="04">ESL NDB/VISER<Route/>
+      <Route Runway="09">ESL NDB/VISER<Route/>
+      <Route Runway="22">ESL NDB/VISER<Route/>
+      <Route Runway="27">ESL NDB/VISER<Route/>
+    </SID>
+    <SID Name="TYERS3" Airport="YMES" Runways="04,09,22,27"> <!-- TYERS3 WIP -->
+      <Route Runway="04">ESL NDB/VISER<Route/>
+      <Route Runway="09">ESL NDB/VISER<Route/>
+      <Route Runway="22">ESL NDB/VISER<Route/>
+      <Route Runway="27">ESL NDB/VISER<Route/>
+    </SID>
+    <SID Name="VALDU2" Airport="YMES" Runways="04,09,22,27"> <!-- VALDU2 WIP -->
+      <Route Runway="04">ESL NDB/VISER<Route/>
+      <Route Runway="09">ESL NDB/VISER<Route/>
+      <Route Runway="22">ESL NDB/VISER<Route/>
+      <Route Runway="27">ESL NDB/VISER<Route/>
+    </SID>
+    <!-- End East Sale TERMA SID's-->
     <SID Name="CLARK2" Airport="YMHB" Runways="12,30">
       <Route Runway="12">-425044.080+1473128.550/KADON/BIVED/IDRUG/DUMIT/NUVTA/CLARK</Route>
       <Route Runway="30">-424944.300+1473007.380/TOKAX/IKETU/CLARK</Route>
