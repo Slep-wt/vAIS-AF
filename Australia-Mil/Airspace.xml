@@ -16833,6 +16833,35 @@ BOFOR
       <Route Runway="34L">RIVET/BIGEM/TAMMI/BOOGI/DUDOK/NASHO</Route>
       <Route Runway="34R">RIVET/BIGEM/TAMMI/BOOGI/DUDOK/NASHO</Route>
     </STAR>
+    <!-- Start TERMA STAR's -->
+    <!-- Start ESL TERMA STAR's -->
+    <STAR Name="ANOSO1" Airport="YMES" Runways="09,27,22">
+      <Route Runway="09">ANOSO/MESWO</Route>
+      <Route Runway="27">ANOSO/MESEJ</Route>
+      <Route Runway="22">ANOSO/WEIRD/ROESA</Route> <!-- TODO 10TAC ARC B/T WEIRD/ROESA -->
+    </STAR>
+    <STAR Name="LAREX1" Airport="YMES" Runways="09,27,22">
+      <Transition Name="VISER">VISER</Transition>
+      <Transition Name="GIPPS">GIPPS</Transition>
+      <Transition Name="TYERS">TYERS</Transition>
+      <Route Runway="27">LAREX/MESEG</Route>
+      <Route Runway="22">LAREX/RASHI/WEIRD/ROESA</Route> <!-- TODO 10TAC ARC B/T WEIRD/ROESA -->
+    </STAR>
+    <STAR Name="PAPDO1" Airport="YMES" Runways="09,22">
+      <Transition Name="MOZZA">MOZZA</Transition>
+      <Transition Name="BULKO">GIPPS</Transition>
+      <Transition Name="LTV">LTV NDB</Transition>
+      <Route Runway="09">PAPDO/MESWP</Route>
+      <Route Runway="22">PAPDO/RUSIR/AMELI/ROESA</Route>
+    </STAR>
+    <STAR Name="TREVR4" Airport="YMES" Runways="09,22">
+      <Transition Name="VISER">VISER</Transition>
+      <Route Runway="09">TREVR/MESWQ</Route>
+      <Route Runway="22">TREVR/AMELI/ROESA</Route>
+    </STAR>
+    <!-- End ESL TERMA STAR's -->
+    <!-- End TERMA STAR's -->
+ 
     <Approach Name="RNPZ" Airport="YBBN" Runway="01L">
       <Transition Name="TANIK">TANIK</Transition>
       <Route>AKTOB/LUTSI/-272259.050+1530624.490</Route>
