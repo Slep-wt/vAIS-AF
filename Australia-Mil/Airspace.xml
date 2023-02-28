@@ -9187,7 +9187,6 @@ BOFOR
     <Point Name="JBYWI" Type="Fix">-350812.040+1503400.190</Point>
     <Point Name="JBYWM" Type="Fix">-350842.800+1504117.550</Point>
     <Point Name="LIDVU" Type="Fix">-380814.630+1472805.100</Point>
-    <Point Name="WM2WM" Type="Fix">-324713.460+1514921.340</Point>
     <Point Name="JEDDA" Type="Fix">-270925.600+1515710.300</Point>
     <Point Name="JELLI" Type="Fix">-335337.800+1512242.800</Point>
     <Point Name="JEMMA" Type="Fix">-194910.600+1471130.400</Point>
@@ -13436,7 +13435,8 @@ BOFOR
     <Point Name="WM2WC" Type="Fix">-323610.300+1514233.700</Point>
     <Point Name="WM2WF" Type="Fix">-324406.800+1514500.900</Point>
     <Point Name="WM2WH" Type="Fix">-324918.100+1515215.100</Point>
-    <Point Name="WM2WI" Type="Fix">-324052.100+1514030.000</Point>
+    <Point Name="WM2WI" Type="Fix">-324052.100+1514030.000</Point
+    <Point Name="WM2WM" Type="Fix">-324713.460+1514921.340</Point>
     <Point Name="WM83C" Type="Fix">-312324.000+1554130.000</Point>
     <Point Name="WM84C" Type="Fix">-324612.000+1551336.000</Point>
     <Point Name="WM85C" Type="Fix">-311200.000+1483824.000</Point>
